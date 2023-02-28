@@ -25,4 +25,4 @@ def mostLikely(n, p):
     if gt % 1 != 0:
         return (int(gt // 1),)
     else:
-        return (int(gt - 1), int(gt))
+        return (int(gt - 1), int(gt))   
